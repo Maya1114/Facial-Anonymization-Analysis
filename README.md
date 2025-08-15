@@ -117,14 +117,6 @@ Analyzes prediction accuracy based on **intersectional subgroups** (e.g., Woman 
 
 ---
 
-## ✅ TODO (Optional Enhancements)
-
-- Visualize accuracy drops using bar or heatmap plots  
-- Implement fairness metrics like **Equal Opportunity**, **Demographic Parity**, or **Disparate Impact**  
-- Evaluate anonymization impact across other attributes like age or emotion
-
----
-
 ## 🧠 Citation / Inspiration
 
 This project is inspired by fairness evaluation practices in machine learning and face recognition research. For theoretical background, consider referencing:
